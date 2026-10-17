@@ -55,6 +55,8 @@
 | [闪电鼠(ShanDian)](https://eoht.net/serve/airport/shandian) | `eoth01` | 专属 8 折 | 适用账户、套餐及叠加条件以结算页为准 | [前往官网](https://eoht.net/serve/airport/shandian) |
 | [环球梯(HuanQiu)](https://eoht.net/serve/airport/huanqiu) | `HQ66` | 7 折 | 全场套餐；限量 2000 份，每人限用一次；不可兑换现金，不与其他优惠叠加；截至 2026 年 11 月 30 日，先到先得 | [前往官网](https://eoht.net/serve/airport/huanqiu) |
 | [环球梯(HuanQiu)](https://eoht.net/serve/airport/huanqiu) | `THEO66` | 专属 8 折 | 适用账户、套餐及续费条件以结算页为准；不与 HQ66 叠加 | [前往官网](https://eoht.net/serve/airport/huanqiu) |
+| [灵动云(LingDongYun)](https://eoht.net/serve/airport/lingdongyun) | `zq88` | 8 折 | 购买或续费年付、多年付方案；2026 年 9 月 24 日至 10 月 25 日 23:59（北京时间）；每单限一个优惠码，不与其他促销叠加；不限时包、重置包与私人定制是否参与需确认 | [前往官网](https://eoht.net/serve/airport/lingdongyun) |
+| [灵动云(LingDongYun)](https://eoht.net/serve/airport/lingdongyun) | `zq85` | 8.5 折 | 购买或续费月付、季付、半年付方案；2026 年 9 月 24 日至 10 月 25 日 23:59（北京时间）；每单限一个优惠码，不与其他促销叠加；不限时包、重置包与私人定制是否参与需确认 | [前往官网](https://eoht.net/serve/airport/lingdongyun) |
 
 <a id="airports-without-listed-coupons"></a>
 
