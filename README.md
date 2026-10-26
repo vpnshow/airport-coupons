@@ -15,6 +15,8 @@
 | 机场与完整评测 | 优惠码 | 折扣 | 适用条件 | 官网入口 |
 |:---|:---|:---|:---|:---|
 | [星岛梦(StarDream)](https://eoht.net/serve/airport/xdm) | `nmw888` | 9 折 | 适用套餐及与周期优惠叠加情况以结算页为准 | [前往官网](https://eoht.net/serve/airport/xdm) |
+| [星岛梦(StarDream)](https://eoht.net/serve/airport/xdm) | `2happy80` | 8 折 | 年付及以上；与周期优惠叠加情况以结算页为准 | [前往官网](https://eoht.net/serve/airport/xdm) |
+| [星岛梦(StarDream)](https://eoht.net/serve/airport/xdm) | `2happy85` | 8.5 折 | 年付以下；与周期优惠叠加情况以结算页为准 | [前往官网](https://eoht.net/serve/airport/xdm) |
 | [暮光网络(TwiLight)](https://eoht.net/serve/airport/twilight) | `mm88` | 8 折 | 限新用户，适用套餐以结算页为准 | [前往官网](https://eoht.net/serve/airport/twilight) |
 | [微风网络(Breeze)](https://eoht.net/serve/airport/breeze) | `weifeng90` | 7 折 | 新老用户均可用；全场所有套餐，支持新购、续费及升级 | [前往官网](https://eoht.net/serve/airport/breeze) |
 | [九云机场(9Yun)](https://eoht.net/serve/airport/9yun) | `eoht` | 专属 8 折 | 适用套餐以结算页为准 | [前往官网](https://eoht.net/serve/airport/9yun) |
