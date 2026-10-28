@@ -56,8 +56,7 @@
 | [锦云(JinYun)](https://eoht.net/serve/airport/jinyun) | `eoht` | 专属 8 折 | 适用套餐以结算页为准 | [前往官网](https://eoht.net/serve/airport/jinyun) |
 | [飞为(Firefly)](https://eoht.net/serve/airport/firefly) | `firefly` | 8 折 | 限新用户，**¥96 年付版不参与** | [前往官网](https://eoht.net/serve/airport/firefly) |
 | [有一说一(U1S1)](https://eoht.net/serve/airport/u1s1) | `U1S1` | 85 折 | 限新人，适用范围与实付金额以结算页为准 | [前往官网](https://eoht.net/serve/airport/u1s1) |
-| [灵动云(LingDongYun)](https://eoht.net/serve/airport/lingdongyun) | `zq88` | 8 折 | 购买或续费年付、多年付方案；2026 年 9 月 24 日至 10 月 25 日 23:59（北京时间）；每单限一个优惠码，不与其他促销叠加；不限时包、重置包与私人定制是否参与需确认 | [前往官网](https://eoht.net/serve/airport/lingdongyun) |
-| [灵动云(LingDongYun)](https://eoht.net/serve/airport/lingdongyun) | `zq85` | 8.5 折 | 购买或续费月付、季付、半年付方案；2026 年 9 月 24 日至 10 月 25 日 23:59（北京时间）；每单限一个优惠码，不与其他促销叠加；不限时包、重置包与私人定制是否参与需确认 | [前往官网](https://eoht.net/serve/airport/lingdongyun) |
+| [灵动云(LingDongYun)](https://eoht.net/serve/airport/lingdongyun) | `LD888` | 8 折（减免 20%） | 新手优惠；月付小包与年付小包不可使用；其他适用条件以结算页为准 | [前往官网](https://eoht.net/serve/airport/lingdongyun) |
 | [杏花云(XingHua)](https://eoht.net/serve/airport/xinghua) | `eoht` | 专属 8 折 | 适用套餐及其他条件以结算页为准 | [前往官网](https://eoht.net/serve/airport/xinghua) |
 
 <a id="airports-without-listed-coupons"></a>
