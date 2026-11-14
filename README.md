@@ -40,13 +40,11 @@
 | [飞为(Firefly)](https://eoht.net/serve/airport/firefly) | `firefly` | 8 折 | 限新用户，**¥96 年付版不参与** | [前往官网](https://eoht.net/serve/airport/firefly) |
 | [闪跃(FlashLeap)](https://eoht.net/serve/airport/flashleap) | `shanyue` | 8 折（减免 20%） | 永久有效、限用一次；仅闪动、飞跃、瞬移、跃迁，支持月付、季付、半年付、年付、两年付、三年付；年付小包不在适用名单内 | [前往官网](https://eoht.net/serve/airport/flashleap) |
 | [无忧链接(WuYou)](https://eoht.net/serve/airport/wuyou) | `wuyou666` | 6.8 折 | 限新用户，**MINI 链接年付 ¥79 套餐不支持**；其他套餐以结算页为准 | [前往官网](https://eoht.net/serve/airport/wuyou) |
-| [隐形人(YinXingRen)](https://eoht.net/serve/airport/yinxingren) | `Double1` | 8.8 折 | 双十一套餐活动，2026 年 10 月 31 日至 11 月 11 日；适用套餐及叠加条件以结算页为准 | [前往官网](https://eoht.net/serve/airport/yinxingren) |
 | [梯子云(LadderCloud)](https://eoht.net/serve/airport/laddercloud) | `tiziyun` | 8 折 | 新人专享，适用套餐以结算页为准 | [前往官网](https://eoht.net/serve/airport/laddercloud) |
 | [九云机场(9Yun)](https://eoht.net/serve/airport/9yun) | `eoht` | 专属 8 折 | 适用套餐以结算页为准 | [前往官网](https://eoht.net/serve/airport/9yun) |
 | [宝云(BaoYun)](https://eoht.net/serve/airport/baoyun) | `eoht` | 专属 8 折 | 适用套餐以结算页为准 | [前往官网](https://eoht.net/serve/airport/baoyun) |
 | [有一说一(U1S1)](https://eoht.net/serve/airport/u1s1) | `U1S1` | 8.5 折 | 限新人；**¥96 年包不适用**；其他条件及实付金额以结算页为准 | [前往官网](https://eoht.net/serve/airport/u1s1) |
 | [灵猫网络(SpiritCat)](https://eoht.net/serve/airport/spiritcat) | `lingmao` | 9 折 | 限新用户；**年付小包不支持**；其他条件以结算页为准 | [前往官网](https://eoht.net/serve/airport/spiritcat) |
-| [云图机场(YunTu)](https://eoht.net/serve/airport/yuntu) | `yt88` | 88 折 | 全场套餐；开业活动截至 2026 年 11 月 4 日，与其他活动叠加情况以结算页为准 | [前往官网](https://eoht.net/serve/airport/yuntu) |
 | [榴莲云(LiuLianYun)](https://eoht.net/serve/airport/liulianyun) | `ll88` | 7 折 | 适用套餐及与周期优惠叠加情况以结算页为准 | [前往官网](https://eoht.net/serve/airport/liulianyun) |
 | [杏花云(XingHua)](https://eoht.net/serve/airport/xinghua) | `eoht` | 专属 8 折 | 适用套餐及其他条件以结算页为准 | [前往官网](https://eoht.net/serve/airport/xinghua) |
 | [环球梯(HuanQiu)](https://eoht.net/serve/airport/huanqiu) | `HQ66` | 8 折 | 全场套餐；限量 2000 份，每人限用一次；不可兑换现金，不与其他优惠叠加；截至 2026 年 11 月 30 日，先到先得 | [前往官网](https://eoht.net/serve/airport/huanqiu) |
@@ -74,6 +72,8 @@
 | 机场与完整评测 | 优惠码 | 官网入口 |
 |:---|:---|:---|
 | [可达(KeDa)](https://eoht.net/serve/airport/keda) | 暂未收录 | [前往官网](https://eoht.net/serve/airport/keda) |
+| [隐形人(YinXingRen)](https://eoht.net/serve/airport/yinxingren) | 暂未收录 | [前往官网](https://eoht.net/serve/airport/yinxingren) |
+| [云图机场(YunTu)](https://eoht.net/serve/airport/yuntu) | 暂未收录 | [前往官网](https://eoht.net/serve/airport/yuntu) |
 | [隐云(YinYun)](https://eoht.net/serve/airport/yinyun) | 暂未收录 | [前往官网](https://eoht.net/serve/airport/yinyun) |
 
 <a id="how-to-use-airport-coupons"></a>
